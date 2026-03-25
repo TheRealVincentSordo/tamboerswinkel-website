@@ -1,6 +1,6 @@
 # Tamboerswinkel Website
 
-A sample marketing website for **Tamboerswinkel** (coffee shop, deli, and wine shop), built with **Vite** and intended for static hosting on **GitHub Pages**.
+A website for **Tamboerswinkel** (coffee shop, deli, and wine shop), built with **Vite** and intended for static hosting on **GitHub Pages**.
 
 ## Tech Stack
 
